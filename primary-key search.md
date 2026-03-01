@@ -1,12 +1,12 @@
 # Milvus Vector Database – Primary Key Search Explained
 
 ### This document explains how Milvus performs:
--> Collection creation
--> Schema definition
--> Vector indexing
--> Data insertion
--> Primary-key-based retrieval
--> Similarity search
+-> Collection creation.
+-> Schema definition.
+-> Vector indexing.
+-> Data insertion.
+-> Primary-key-based retrieval.
+-> Similarity search.
 -> This example demonstrates the core mechanics behind vector retrieval systems, which are foundational for Retrieval-Augmented Generation (RAG) architectures.
 ---
 ### 1. Import Required Modules
