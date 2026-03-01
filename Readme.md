@@ -22,4 +22,12 @@ RAG = Retrieval + Augmentation + Generation
 3. Then the LLM generates grounded answers
 -> This reduces hallucination and improves accuracy.
 ---
-# I add Hybrid Search RAG
+# Repository Update:
+
+-> Added the following enhancements to improve the RAG system architecture:
+
+- Hybrid_Search.ipynb – Implements vector + keyword hybrid retrieval.
+- ad_rag.ipynb – Refined advanced RAG pipeline.
+- milvusdb_creation_structure.ipynb – Modular Milvus database setup.
+- RAG-code.md – Detailed conceptual explanation of the architecture.
+-> These updates improve modularity, retrieval quality, and system scalability.
