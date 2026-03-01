@@ -21,3 +21,5 @@ RAG = Retrieval + Augmentation + Generation
 2. We inject them into the prompt.
 3. Then the LLM generates grounded answers
 -> This reduces hallucination and improves accuracy.
+---
+# I add Hybrid Search RAG
