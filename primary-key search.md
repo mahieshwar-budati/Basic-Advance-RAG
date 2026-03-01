@@ -88,7 +88,7 @@ index_params.add_index(
 - Fast similarity retrieval
 - Distance Metric: L2
 -  metric_type="L2" uses Euclidean Distance:
-(𝑥1-y1)2+(𝑥2−𝑦2)2+...(x1−y1)2+(x2−y2)2+...
+(𝑥1-y1)2+(𝑥2−𝑦2)2/(x1−y1)2+(x2−y2)2
 - Other common metrics:
 - COSINE
 - IP (Inner Product)
